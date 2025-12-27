@@ -65,7 +65,6 @@ ________________________________________
 •	Revenue contribution by segment
 •	Recency vs Frequency plots
 •	Monetary value comparison
-•	KPI summary dashboard
 ________________________________________
 📈 Key Insights
 •	A small percentage of customers contribute the majority of revenue
@@ -77,5 +76,5 @@ ________________________________________
 
 Name: SUDHARSAN G
 Role: Aspiring Data Analyst / AI-ML Engineer
-LinkedIn: sudharsan-g-4b11b6348
+LinkedIn:[sudharsan-g-4b11b6348](https://www.linkedin.com/in/sudharsan-g-4b11b6348/?trk=public-profile-join-page)
 GitHub: https://github.com/sudharsan2k06
