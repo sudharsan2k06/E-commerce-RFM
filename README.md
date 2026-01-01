@@ -117,6 +117,10 @@ ________________________________________
 
 •	Monetary value comparison
 
+<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/0d538bc0-a4ea-4805-8bdc-c28d229045b7" />
+
+heatmap visuals:
+<img width="1134" height="600" alt="image" src="https://github.com/user-attachments/assets/253e4ee8-fa4c-4854-8c70-addbf10d566a" />
 
 
 
